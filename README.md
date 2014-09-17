@@ -1,4 +1,7 @@
-github-labels-template
+Github Labels Template
 ======================
 
-A labels template for new projects
+My labels template for new projects
+
+To be used with [this tool](https://github.com/popomore/github-labels)
+
