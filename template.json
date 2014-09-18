@@ -1,0 +1,18 @@
+[
+  {"name": "type:bug", "color": "fc2929"},
+  {"name": "type:story", "color": "006b75"},
+
+  {"name": "pts:1", "color": "bfdadc"},
+  {"name": "pts:2", "color": "bfdadc"},
+  {"name": "pts:3", "color": "bfdadc"},
+  {"name": "pts:5", "color": "bfdadc"},
+  {"name": "pts:8", "color": "bfdadc"},
+  {"name": "pts:13", "color": "bfdadc"},
+
+  {"name": "ptv:1", "color": "bfe5bf"},
+  {"name": "ptv:2", "color": "bfe5bf"},
+  {"name": "ptv:3", "color": "bfe5bf"},
+  {"name": "ptv:5", "color": "bfe5bf"},
+  {"name": "ptv:8", "color": "bfe5bf"},
+  {"name": "ptv:13", "color": "bfe5bf"}
+]
